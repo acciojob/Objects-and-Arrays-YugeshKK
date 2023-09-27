@@ -7,7 +7,7 @@ const person = {
 const team=players;
 const team1=[...players];
 const cap1={
-	...person;
+	...person
 } 
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
